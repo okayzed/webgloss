@@ -1,4 +1,5 @@
 welcome
 =======
 
-please find a collection of articles about the modern web app for your enjoyment.
+please find here a collection of knowledge about the modern web app for your
+enjoyment.
